@@ -1,0 +1,16 @@
+{
+    "name": "sebentleitner/demo-weather",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sebentleitner\\DemoWeather\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sebentleitner",
+            "email": "sentleitner@schueler.hakzell.at"
+        }
+    ],
+    "require": {}
+}
